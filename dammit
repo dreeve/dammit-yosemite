@@ -1,0 +1,8 @@
+networksetup -setairportpower en0 off
+sleep 1
+echo "Fucking Yosemite..."
+sleep 1
+echo "I swear to god, if Steve Jobs wasn't dead..."
+sleep 1
+echo "I'd punch him in his stupid turtleneck."
+networksetup -setairportpower en0 on
